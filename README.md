@@ -9,8 +9,8 @@ A modern, responsive portfolio application built with Flutter. Showcase your pro
 ## Preview
 
 <!-- Add your screenshot/GIF here -->
-![Mobile](images/mobile.png)
-![Tablet](image-1.png)
+<img width="788" height="4618" alt="image" src="https://github.com/user-attachments/assets/0ef05a25-32fc-4a3b-aa1b-9a18fa45413e" />
+<img width="2568" height="4656" alt="image" src="https://github.com/user-attachments/assets/c3705ce4-449a-4599-933b-9a216fb0cbb2" />
 
 ## Features
 
